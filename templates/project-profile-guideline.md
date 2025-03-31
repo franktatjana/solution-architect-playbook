@@ -112,3 +112,8 @@ Mark and describe the current state of project maturity.
 ### Internal Notes  
 Use this space for Elastic-only observations such as MEDDPICC alignment, internal blockers, account strategy, or political dynamics.
 
+---
+**Tags:** **Tags:** `#sa-project` `#sa-battlecard` `#sa-tech-to-business` `#sa-notes`
+
+
+

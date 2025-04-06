@@ -13,7 +13,7 @@ This guide exists to help Solution Architects:
 
 > **Note**: POCs are optional and should be used strategically not automatically.
 
-## What You'll Find Here (in progress)
+## What You'll Find Here _(in progress)_
 | File | Description |
 |------|-------------|
 | [`01-customer-poc-template.md`](./01-customer-poc-template.md) | Working template for running a POC (problem framing, roles, results, workflows) |

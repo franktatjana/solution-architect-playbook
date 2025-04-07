@@ -79,3 +79,6 @@ Ensure clarity and visibility into the solution’s operational health, performa
 - Provide stakeholders easy access to meaningful insights and reports.
 - Promote accountability through transparent communication of solution performance.
 - Enable informed decision-making based on comprehensive and accurate data.
+
+## Tags
+`#EnterpriseArchitecture` `#BestPractices` `#ArchitecturePillars`

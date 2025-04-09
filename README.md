@@ -7,12 +7,13 @@ This playbook is here to make our work as Solution Architects easier and more ef
 It helps us stay aligned, reuse what works, and focus on what brings real value to our customers.
 
 ## Playbook Goals
-- Provide **a central info hub** for onboarding, ongoing education, and knowledge sharing to support skill development and team performance.
-- Offer **guidlines and methods** for Solution Architects to engage as strategic partners in customer initiatives, aligned with business outcomes and long-term value.
-- Standardize **best practices**, ensure a **consistent approach** to technical discovery, solution design, POCs, and technical validation across the team to ensure repeatable success.
-- Equip Solution Architects with **reusable assets, templates, and technical use cases** to reduce ramp-up time, speed up delivery, and scale impact.
-- Link **technical solution to business impact**, align technical activities with sales methodologies (e.g., MEDDPICC) to drive qualification, technical wins, and measurable influence on pipeline progression and revenue.
-- Foster **collaboration and transparency**, create visibility into ongoing initiatives, lessons learned, and internal collaboration patterns to break down silos and support cross-functional alignment.
+- Knowledge hub: central place for skill development and performance support;
+- Customer success methods: initiatives aligned with business outcomes and long-term value;
+- Best practices: consistent approach for discovery, solution design, POCs, and technical validation;
+- Reusable assets: templates and guidelines to accelerate delivery and increase impact;
+- Solution library: technical solutions mapped to business value
+- Sales Alignment: technical activities linked to MEDDPICC and pipeline influence;
+- Lessons learned: shared insights to improve future execution and enable continuous improvement
 
 ## Purpose & Vision
 This playbook is designed to support Solution Architects in their day-to-day work and long-term impact. 

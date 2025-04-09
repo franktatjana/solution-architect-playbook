@@ -33,10 +33,10 @@ At its core, this is a working document. It evolves with experience, feedback, a
 - Contribute by documenting what worked well or lessons from a challenge
   
 ## Structure _(in progress)_
+- `/ent-arch` – Architecture blueprints and integration strategies across  solutions
 - `/use-cases` – Proven technical scenarios applicable across industries
 - `/templates` – Reusable documents for discovery, delivery, and handover
 - `/practices` – SA playbook routines, POC guidance, internal collaboration workflows
-- `/patterns` – Architecture blueprints and integration strategies across  solutions
   
 **Tags:** `#sa-enablement` `#sa-best-practices` `#sa-strategy` `#sa-tech-to-business` `#sa-meddpicc`
 
